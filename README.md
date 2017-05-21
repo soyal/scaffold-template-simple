@@ -1,0 +1,1 @@
+这是my-scaffold的simple template

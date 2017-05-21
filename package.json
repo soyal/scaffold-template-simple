@@ -1,0 +1,19 @@
+{
+  "name": "scaffold-template-simple",
+  "version": "1.0.0",
+  "description": "这是my-scaffold的simple template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyal/scaffold-template-simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyal/scaffold-template-simple/issues"
+  },
+  "homepage": "https://github.com/soyal/scaffold-template-simple#readme"
+}
